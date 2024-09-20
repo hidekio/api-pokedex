@@ -1097,12 +1097,12 @@
         "id":100,
         "cpf": "Cubone",
         "nome": "Cubone      ",
-        "numero": "#101",
+        "numero": "#100",
         "cidade": "kanto",
         "altura": " 0,4m",
         "tipo": " Terra   ",
         "link": "https://minecraft.com",
-        "imagem": "<img src='https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/104.pnghttps://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/104.png'>"
+        "imagem": "<img src='https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/104.png'>"
     }, {
         "id":101,
         "cpf": "Marowak",
