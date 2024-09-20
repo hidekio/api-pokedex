@@ -1082,7 +1082,7 @@
         "altura": " 0,4m",
         "tipo": " Planta/Psíquico  ",
         "link": "https://minecraft.com",
-        "imagem": "<img src='https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/102.pnghttps://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/102.png'>"
+        "imagem": "<img src='https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/102.png'>"
     }, {
         "id":99,
         "cpf": "Exeggutor",
@@ -1097,12 +1097,12 @@
         "id":100,
         "cpf": "Cubone",
         "nome": "Cubone      ",
-        "numero": "#100",
+        "numero": "#101",
         "cidade": "kanto",
         "altura": " 0,4m",
         "tipo": " Terra   ",
         "link": "https://minecraft.com",
-        "imagem": "<img src='https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/104.png'>"
+        "imagem": "<img src='https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/104.pnghttps://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/104.png'>"
     }, {
         "id":101,
         "cpf": "Marowak",
@@ -1318,7 +1318,7 @@
         "altura": " 1,1m",
         "tipo": " Água  ",
         "link": "https://minecraft.com",
-        "imagem": "<img src='https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/121.pnghttps://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/121.png'>"
+        "imagem": "<img src='https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/121.png'>"
     }, 
     {
         "id":122,
@@ -1373,7 +1373,7 @@
         "altura": " 1,3m",
         "tipo": " fogo ",
         "link": "https://minecraft.com",
-        "imagem": "<img src='https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/126.pnghttps://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/126.png'>"
+        "imagem": "<img src='https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/126.png'>"
     },
     {
         "id":127,
@@ -1417,7 +1417,7 @@
         "altura": " 6,5m",
         "tipo": " Água/Voador ",
         "link": "https://minecraft.com",
-        "imagem": "<img src='https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/130.pnghttps://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/130.png'>"
+        "imagem": "<img src='https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/130.png'>"
     }, 
     {
         "id":131,
