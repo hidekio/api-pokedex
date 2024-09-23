@@ -317,7 +317,7 @@
         "altura": "1,0 m",
         "tipo": "Venenoso",
         "link": "https://minecraft.com",
-        "imagem": "<img src='https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/029.pnghttps://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/029.png'200px;'>"
+        "imagem": "<img src='https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/029.png'>"
     },
     {
         "id":30,
@@ -1037,7 +1037,7 @@
         "altura": " 0,4m",
         "tipo": " Água  ",
         "link": "https://minecraft.com",
-        "imagem": "<img src='https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/098.pnghttps://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/098.png'>"
+        "imagem": "<img src='https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/098.png'>"
     },
     
     {
@@ -1093,17 +1093,19 @@
         "tipo": " Planta/Psíquico  ",
         "link": "https://minecraft.com",
         "imagem": "<img src='https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/103.png'>"
-    }, {
+    }, 
+    {
         "id":100,
         "cpf": "Cubone",
         "nome": "Cubone      ",
-        "numero": "#101",
+        "numero": "#100",
         "cidade": "kanto",
         "altura": " 0,4m",
         "tipo": " Terra   ",
         "link": "https://minecraft.com",
-        "imagem": "<img src='https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/104.pnghttps://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/104.png'>"
-    }, {
+        "imagem": "<img src='https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/104.png'>"
+    }, 
+    {
         "id":101,
         "cpf": "Marowak",
         "nome": "Marowak      ",
@@ -1113,7 +1115,8 @@
         "tipo": " Terra   ",
         "link": "https://minecraft.com",
         "imagem": "<img src='https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/105.png'>"
-    }, {
+    }, 
+    {
         "id":102,
         "cpf": "Hitmonlee",
         "nome": "Hitmonlee      ",
@@ -1123,7 +1126,8 @@
         "tipo": " Elétrico  ",
         "link": "https://minecraft.com",
         "imagem": "<img src='https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/106.png'>"
-    }, {
+    }, 
+    {
         "id":103,
         "cpf": "Hitmonchan",
         "nome": "Hitmonchan      ",
@@ -1133,7 +1137,8 @@
         "tipo": " Lutador   ",
         "link": "https://minecraft.com",
         "imagem": "<img src='https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/107.png'>"
-    }, {
+    }, 
+    {
         "id":104,
         "cpf": "Lickitung",
         "nome": "Lickitung      ",
@@ -1143,7 +1148,8 @@
         "tipo": " Normal    ",
         "link": "https://minecraft.com",
         "imagem": "<img src='https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/108.png'>"
-    }, {
+    }, 
+    {
         "id":105,
         "cpf": "Koffing",
         "nome": "Koffing        ",
@@ -1153,7 +1159,8 @@
         "tipo": " Venenoso   ",
         "link": "https://minecraft.com",
         "imagem": "<img src='https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/109.png'>"
-    }, {
+    }, 
+    {
         "id":106,
         "cpf": "Weezing",
         "nome": "Weezing      ",
@@ -1163,7 +1170,8 @@
         "tipo": " Venenoso   ",
         "link": "https://minecraft.com",
         "imagem": "<img src='https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/110.png'>"
-    }, {
+    }, 
+    {
         "id":107,
         "cpf": "Munkey",
         "nome": "Munkey    ",
@@ -1172,8 +1180,9 @@
         "altura": " 0,5m",
         "tipo": " Lutador   ",
         "link": "https://minecraft.com",
-        "imagem": "<img src='https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/056.png>"
-    }, {
+        "imagem": "<img src='https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/056.png'>"
+    }, 
+    {
         "id":108,
         "cpf": "Primeape",
         "nome": "Primeape",
@@ -1183,7 +1192,8 @@
         "tipo": " Lutador  ",
         "link": "https://minecraft.com",
         "imagem": "<img src='https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/057.png'>"
-    }, {
+    }, 
+    {
         "id":109,
         "cpf": "Growlithe",
         "nome": "Growlithe ",
@@ -1193,7 +1203,8 @@
         "tipo": " fogo ",
         "link": "https://minecraft.com",
         "imagem": "<img src='https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/058.png'>"
-    }, {
+    }, 
+    {
         "id":110,
         "cpf": "Arcanine",
         "nome": "Arcanine     ",
@@ -1203,7 +1214,8 @@
         "tipo": " fogo ",
         "link": "https://minecraft.com",
         "imagem": "<img src='https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/059.png'>"
-    }, {
+    }, 
+    {
         "id":111,
         "cpf": "Rhyhorn",
         "nome": "Rhyhorn     ",
@@ -1213,7 +1225,8 @@
         "tipo": " Terra/Pedra  ",
         "link": "https://minecraft.com",
         "imagem": "<img src='https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/111.png'>"
-    }, {
+    }, 
+    {
         "id":112,
         "cpf": "Rhydon",
         "nome": "Voltorb     ",
@@ -1223,7 +1236,8 @@
         "tipo": " Terra/Pedra  ",
         "link": "https://minecraft.com",
         "imagem": "<img src='https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/112.png'>"
-    }, {
+    }, 
+    {
         "id":113,
         "cpf": "Chansey",
         "nome": "Chansey     ",
@@ -1232,8 +1246,9 @@
         "altura": " 1,1m",
         "tipo": " Normal    ",
         "link": "https://minecraft.com",
-        "imagem": "<img src='https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/113.png>"
-    }, {
+        "imagem": "<img src='https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/113.png'>"
+    }, 
+    {
         "id":114,
         "cpf": "Tangela",
         "nome": "Tangela     ",
@@ -1243,7 +1258,8 @@
         "tipo": " Planta  ",
         "link": "https://minecraft.com",
         "imagem": "<img src='https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/114.png'>"
-    }, {
+    }, 
+    {
         "id":115,
         "cpf": "Kangaskhan",
         "nome": "Kangaskhan     ",
@@ -1505,7 +1521,7 @@
         "altura": " 0,4m",
         "tipo": " Pedra/Água  ",
         "link": "https://minecraft.com",
-        "imagem": "<img src='https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/138.png>"
+        "imagem": "<img src='https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/138.png'>"
     }, 
     {
         "id":139,
