@@ -1,9 +1,23 @@
 {
-    "nome": "Squirtle de oculos",
-    "idade": "indefinida",
-    "preco": "R$300,00$",
-    "imagem": "<img src = 'img/squirtle-.png'>",
-    "bio": "Squirtle é um Pokémon do tipo Água, conhecido por ser um dos Pokémon iniciais da região de Kanto. Ele tem a aparência de uma pequena tartaruga azul e pode usar seu casco para se proteger. No anime Pokémon, um dos Squirtles mais famosos é o líder do Esquadrão Squirtle, uma gangue de Squirtles travessos que usavam óculos de sol. Após conhecer Ash Ketchum, o Squirtle líder se junta ao seu time e se torna um aliado leal, mantendo sempre seu visual marcante com os óculos. Squirtle é conhecido por sua personalidade corajosa e divertida, além de ser um excelente combatente com habilidades como jato d'água."
+    "nome": "Charmander",
+    "sinopse": "Charmander, inicial de Kanto, é um Pokémon do tipo Fogo com <br> chama na cauda que reflete <br>sua saúde e humor. Evolui para Charmeleon e Charizard, famoso por seus ataques de fogo.",
+    "preco": "R$ 1.000.000 ",
+    "imagem": "<img src = 'https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/004.png'   width='300px'>",
+
+    
+    "nome2": "Squirtle",
+    "sinopse2": "Squirtle, Pokémon Água de Kanto, tem forma de tartaruga azul,<br> usa casco para proteção. Líder do Esquadrão Squirtle, une-se a Ash,<br> mantendo óculos e habilidades como jato d'água.",
+    "preco2": "R$ 1.000.000",
+    "imagem2": "<img src = 'https://toppng.com/uploads/thumbnail/squirtle-glasses-png-squirtle-with-glasses-11563023501gh5cz9k4kl.png' width='300px'>",
+    
+    
+
+    "nome3": "bulbasauro",
+    "sinopse3": "Bulbasaur, um Pokémon planta/venenoso, <br> é um inicial de Kanto com aparência de dinossauro com bulbo nas costas.<br> Fiel, protetor e estratégico em batalhas.",
+    "preco3": "R$35,00",
+    "imagem3": "<img src = 'https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/001.png'>"
+
+
+
 
 }
-
